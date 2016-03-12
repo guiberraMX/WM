@@ -136,10 +136,29 @@ h1.page-title { margin:95px auto 0; width: 100%; }
 .title-big2 { font-size: 125px !important; line-height:125px !important;}
 .title-big3 { font-size: 150px !important; line-height:150px !important;}
 
+
+
 .font-size{
     font-size: 1.7em !important;
     text-align: center !important;
 }
+
+
+.margenes{
+    margin: 66px;
+
+}
+
+.margennegativo{
+    margin-top: -220px;
+}
+
+
+.space99{
+    margin-top: 50px !important;
+}
+
+
 
 /* text color */
 .white-text{ color:#FFF !important}

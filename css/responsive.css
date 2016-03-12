@@ -55,7 +55,27 @@
     .hover-box-text {padding: 22px 30px;}
 }
 
-@media (max-width: 1199px) {
+
+
+
+
+
+@media (max-width: 1000px) {
+    .margennegativo{
+        margin-top: -220px !important;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+@media (max-width: 1199px){
     section { padding: 110px 0;}
 
     .md-center-col{ float:none !important; margin-left:auto !important; margin-right:auto !important}
