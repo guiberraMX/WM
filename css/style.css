@@ -101,7 +101,7 @@ ul, ol, dl {list-style-position: outside;}
 /* heading */
 h1, h2, h3, h4, h5, h6 { text-transform: uppercase; margin:0; padding:0; color: #000; }
 h1 { font-size:45px; line-height: 45px; line-height: 50px}
-h2 { font-size:40px; line-height:45px}
+h2 { font-size:17px; line-height:45px}
 h3 { font-size:35px; line-height:40px}
 h4 { font-size:25px; line-height:30px}
 h5 { font-size:20px; line-height:25px}
@@ -132,7 +132,7 @@ h1.page-title { margin:95px auto 0; width: 100%; }
 .title-extra-large-3{ font-size:50px !important; line-height:50px !important;}
 .title-extra-large-4{ font-size:70px !important; line-height:70px !important;}
 .title-extra-large-5{ font-size:80px !important; line-height:50px !important;}
-.title-big { font-size: 100px !important; line-height:100px !important;}
+.title-big { font-size: 55px !important; line-height:100px !important; margin-left: 45px !important; letter-spacing: 3px !important;}
 .title-big2 { font-size: 125px !important; line-height:125px !important;}
 .title-big3 { font-size: 150px !important; line-height:150px !important;}
 
@@ -159,6 +159,18 @@ h1.page-title { margin:95px auto 0; width: 100%; }
 }
 
 
+.herowm{
+    font-size: 1.5em !important;
+}
+
+
+.margenlogo{
+    text-align: center !important;
+}
+
+.margentopp{
+    margin-top: 55px;
+}
 
 /* text color */
 .white-text{ color:#FFF !important}
@@ -357,7 +369,8 @@ i { color: #9a9a9a; margin:0}
 .bg-fast-green{ background: #00ff97 !important}
 .bg-fast-blue { background: #00efff !important}
 .bg-fast-blue-green-gradiant { background: #00efff; background: -moz-linear-gradient(-45deg, #00efff 0%, #00ff97 100%); background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#00efff), color-stop(100%,#00ff97)); background: -webkit-linear-gradient(-45deg, #00efff 0%,#00ff97 100%); background: -o-linear-gradient(-45deg, #00efff 0%,#00ff97 100%); background: -ms-linear-gradient(-45deg, #00efff 0%,#00ff97 100%); background: linear-gradient(135deg, #00efff 0%,#00ff97 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00efff', endColorstr='#00ff97',GradientType=1 ); }
-.bg-crimson-red { background-color: rgba(200,  32,  146,  0.6);background: rgba(200,  32,  146,  0.6);color: rgba(200,  32,  146,  0.6) !important}
+
+.bg-crimson-red { background-color: #992379 ;color: rgba(200,  32,  146,  0.6) !important}
 .bg-deep-green {background: #1acd7b !important; }
 .bg-deep-green2{background: #7ebaa1 !important;}
 .bg-deep-green-dark{background: #04b966 !important;}
@@ -899,7 +912,7 @@ nav.sidebar-nav .container { vertical-align: top; padding:60px 40px }
 .slider-typography .slider-typography-option4 p { font-size: 14px;}
 
 /* slider typography - style 5 */
-.slider-typography .slider-typography-option5 span { font-size: 60px; line-height: 70px ; letter-spacing: -2px; width: 55%; display: block  }
+.slider-typography .slider-typography-option5 span { font-size: 44px; line-height: 36px ; letter-spacing: -2px; width: 55%; display: block  }
 .slider-typography .slider-typography-option5 p { font-size: 16px;}
 .slider-typography .separator-line-medium-thick { margin: 84px 0}
 
