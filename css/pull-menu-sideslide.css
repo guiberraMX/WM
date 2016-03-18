@@ -81,7 +81,9 @@ body{
     position: fixed;
     z-index: 1001;
     width: 245px;
-    background: #96ceb4;
+    background: rgba(0,0,0, 0.9);
+    border-color: #000;
+    border-width: 8px;
     padding: 60px 30px;
     font-size: 1.15em;
     left: -245px;

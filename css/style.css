@@ -172,6 +172,22 @@ h1.page-title { margin:95px auto 0; width: 100%; }
     margin-top: 55px;
 }
 
+#servicios{
+    background-color: #992379 !important;
+}
+
+.footer-bottom{
+    background-color: #000 !important;
+}
+
+.footer-bottom span{
+    color: #992379 !important;
+    font-size: 1.5em !important;
+}
+
+#contacto{
+    margin-top: 150px !important;
+}
 /* text color */
 .white-text{ color:#FFF !important}
 .magenta-text{ color:#d94378 !important}
@@ -843,9 +859,14 @@ nav.sidebar-nav .container { vertical-align: top; padding:60px 40px }
 .pull-menu .navbar-brand {height: auto}
 .pull-menu .navbar-nav {padding: 30px 0; margin-top: 40px;}
 .pull-menu .navbar-nav a { font-size: 14px; color: #981485 !important; font-weight: 600}
+
+.pull-menu .navbar-nav a:hover { font-size: 14px; color: #fff !important; font-weight: 600}
+
+
+
 .pull-menu .nav li {margin:10px 0; display: block; width: 100%}
 .pull-menu .navbar-nav a span { color: #282828; margin-right: 10px;}
-.pull-menu .navbar-nav li.active a { color: #000 !important}
+.pull-menu .navbar-nav li.active a { color: #fff !important}
 .pull-menu .navbar-nav li.active a span { color: #e31d3b !important}
 .pull-menu .footer-social a i {font-size: 14px;}
 .pull-menu .footer-social a {margin: 0 15px !important}
